@@ -12,4 +12,5 @@ https://support.hrcloud.com/en/help-center/hr-cloud-api
 
 
 API Definition:
+
 https://app.swaggerhub.com/apis/hrcloud/Hr-Cloud_Open_API/1.0
