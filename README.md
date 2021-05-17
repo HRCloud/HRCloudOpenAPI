@@ -9,3 +9,7 @@ https://support.hrcloud.com/help-center/authentication
 Documentation for our API:
 
 https://support.hrcloud.com/en/help-center/hr-cloud-api
+
+
+API Definition:
+https://app.swaggerhub.com/apis/hrcloud/Hr-Cloud_Open_API/1.0
